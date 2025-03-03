@@ -1,5 +1,8 @@
 # Django CRM
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Status: Em Desenvolvimento](https://img.shields.io/badge/Status-Finalizado-orange)]()
+
 Este é um sistema de **Gestão de Relacionamento com o Cliente (CRM)** desenvolvido com **Django**. O objetivo do projeto é permitir que empresas gerenciem informações sobre seus clientes de forma eficiente e intuitiva.
 
 ## Funcionalidades
